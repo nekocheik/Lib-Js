@@ -1,0 +1,28 @@
+{
+  "name": "boilerplate-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekocheik/boilerplate-parcel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nekocheik/boilerplate-parcel/issues"
+  },
+  "homepage": "https://github.com/nekocheik/boilerplate-parcel#readme",
+  "dependencies": {
+    "g": "^2.0.1",
+    "gsap": "^2.1.3",
+    "parcel": "^1.12.3"
+  },
+  "devDependencies": {
+    "sass": "^1.21.0"
+  }
+}
