@@ -19,7 +19,7 @@
   "homepage": "https://github.com/nekocheik/boilerplate-parcel#readme",
   "dependencies": {
     "g": "^2.0.1",
-    "gsap": "^2.1.3",
+    "gsap": "^3.6.0",
     "parcel": "^1.12.3"
   },
   "devDependencies": {
